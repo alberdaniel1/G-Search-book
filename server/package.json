@@ -1,14 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Book search",
+  "description": "book searcher",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Alberto Avelar",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
